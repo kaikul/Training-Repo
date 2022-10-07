@@ -10,12 +10,12 @@
        </head>
            
        <body>
-        <form>
+        
           <div class="sign-up form">
             <form action="co.php" method="post">
                  <h1>sign-up now</h1>
-                 <label for="id">id</label>
-                 <input type="text" name="iname" placeholder="your id" >
+                 <label for="username">username</label>
+                 <input type="text" name="iname" placeholder="your username" >
              </div>
              <div class="sign-up form">
                   <label for="password">password</label>

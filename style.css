@@ -1,11 +1,15 @@
-body {background-color: coral;}
-
-button {background-color:  blue;}
-
-
-.input
-  { 
-   background-color:  red; }
-
-   #password {    background-color:  green; }
- 
+body{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background:yellow;
+    background-size: cover;
+    background-position: center;
+}
+.sign-up form{
+    width:300px;
+    background:grey;
+    padding:20px;
+    margin:8px 0;
+    text-align:center;
+}
