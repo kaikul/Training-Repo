@@ -1,7 +1,8 @@
 
 
+
 <!DOCTYPE html>
-<html>
+<html> 
 
 
       <head>
@@ -38,8 +39,6 @@
                <p><span><input type="checkbox"></span>i agree to the terms and services</p>
                <button type="submit" class="sign-up">sign-up</button>   
               </form>
-              
-              
-              
+          <p>you can now <a href="login.php">login</a></p>
      </body>
 </html>
