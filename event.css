@@ -1,0 +1,171 @@
+ *{
+    margin:0;
+    padding:0;
+}
+body{
+    background:blueviolet;
+}
+.title{
+    width:700px;
+    background-color: black;
+    color: white;
+    margin:auto;
+    padding:15px 0px 10px 0px;
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+    transform: translateY(45px);
+    font-size:22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.main{
+    background-color: white;
+    width:700px;
+    margin:auto;
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+    padding:15p 0px 0px 0px;
+    height:700px;
+}
+form{
+    padding:10px;
+}
+.fname{
+    width:100%;
+    height:70px;
+}
+.head{
+    
+    margin-top: 40px;
+    width:250px;
+    font-size:17px;
+    font-family:'Times New Roman', Times, serif
+    
+    
+}
+.iname{
+    position: relative;
+    left:120px;
+    top:-35px;
+    line-height: 40px;
+    border-radius: 4px;
+    background: rgb(238, 236, 236);
+    border:none;
+    padding:0 22px;
+    font-size: 16px;
+    width:120px;
+}
+.firstlabel{
+color:lightgray;
+}
+.lname{
+    color:lightgrey;
+}
+.mail{
+    width:100%;
+    height:100px;
+}
+.e{
+    float:left;
+    width:250px;
+    font-size:22px;
+    font-family:'Times New Roman', Times, serif
+    
+    
+}
+.imail{
+    position: relative;
+    line-height: 40px;
+    width:400px;
+    right:36px;
+    top:-10px;
+    border-radius: 4px;
+    border: none;
+    background: rgba(238,236,236);
+}
+.name{
+    width:100%;
+    height:100px;
+    transform: translateY(-60px);
+}
+.userlabel{
+    float:left;
+    width:260px;
+    font-size: 19px;
+    font-family:'Times New Roman', Times, serif
+}
+.uname{
+    position: relative;
+    line-height: 40px;
+    width:403px;
+    right:38px;
+    border-radius: 4px;
+    top:-10px;
+    background: rgba(238,236,236);
+    border: none;
+}
+.pass{
+    width:100%;
+    height:100px;
+    transform: translateY(-110px);
+}
+.passlabel{
+    float:left;
+    width:260px;
+    font-size:18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ipass{
+    position: relative;
+    line-height: 40px;
+    width:402px;
+    right:38px;
+    top:-16px;
+    border: none;
+    border-radius: 4px;
+    background: rgb(238, 236, 236);
+}
+.date{
+    width:100%;
+    height:100px;
+    transform: translateY(-120px);
+
+}
+.datelabel{
+    float:left;
+    width:260px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.idate{
+    position: relative;
+    right:160px;
+    line-height: 25px;
+    top:-5px;
+    border-radius: 4px;
+    border: none;
+    background: rgb(238, 236, 236);
+    width:150px;
+}
+.checkbox{
+    width:100%;
+    height:100px;
+    transform: translateY(-150px);
+    
+}
+.label{
+    margin-right:30px;
+
+}
+
+.button{
+    background: orangered;
+    transform: translateY(-100px);
+    border: none;
+    border-radius: 4px;
+    line-height: 30px;
+    width:100px;
+}
+
+
+
