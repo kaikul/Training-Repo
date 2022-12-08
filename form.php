@@ -1,6 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
      <link href="php.css"  rel="stylesheet">
 </head>
 <body>
@@ -43,6 +44,22 @@
        </div>
        <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
       
+=======
+     <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <form action="login.php" method="post">
+       <div class="syle">
+
+           <label for="username"></label>
+           <input type="text" name="username" placeholder="your username"  required>
+
+           <label for="password"></label>
+           <input type="pass" name="password" placeholder="your password"  required>
+
+           <button type="submit" value="submit" name="submit">login</button>
+       </div>
+>>>>>>> 61b5ac960b4a650c3a7abde1e1c124ad47086579
     </form>
 </body>
 </html>
