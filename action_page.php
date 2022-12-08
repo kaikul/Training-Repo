@@ -1,6 +1,6 @@
 <?php 
 
-
+$KASD;
 $servername = "localhost";
 $username = "root";
 $password = "";
